@@ -1,0 +1,9 @@
+[submodule "visionaray"]
+	path = 3rdparty/visionaray
+	url = https://github.com/szellmann/visionaray
+[submodule "3rdparty/owl"]
+	path = 3rdparty/owl
+	url = https://github.com/owl-project/owl
+[submodule "3rdparty/visionaray"]
+	path = 3rdparty/visionaray
+	url = https://github.com/szellmann/visionaray
